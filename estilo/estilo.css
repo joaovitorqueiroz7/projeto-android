@@ -90,6 +90,7 @@ nav > a {
    
 }
 
+
 nav > a:hover {
 
     background-color: var(--color04);
@@ -103,7 +104,7 @@ main {
     background-color: white;
     padding: 30px;
     max-width: 1000px;
-    min-width: 300px;
+    min-width: 150px;
     margin: auto;
     margin-bottom: 30px;
     border-bottom-right-radius: 10px;
